@@ -50,11 +50,11 @@ I’m a New York City-based **B.S. in Software Engineering** student at **Wester
 
 ### 🚀 Featured Experience & Projects
 
-#### 📱 **Lethan** — *Co-Founder & Core Features Developer*
+#### 📱 [**Lethan**](https://lethan-app.vercel.app/) — *Co-Founder & Core Features Developer*
 - Built responsive client-side applications and intuitive interfaces from scratch using **Dart** and **Kotlin**[cite: 1].
 - Engineered server connectivity, **Firebase** cloud synchronization (Auth, Firestore, Realtime DB), and **Python** AI voice cloning pipelines[cite: 1].
 
-#### 🛡️ **Peace Ray Security Services** — *Corporate Web Deployment*
+#### 🛡️ [**Peace Ray Security Services**](https://www.peaceraysecurity.com/en) — *Corporate Web Deployment*
 - Designed, built, and deployed a responsive corporate web presence using **HTML5, CSS3, JavaScript, and Bootstrap**, translating client requirements into a polished production site[cite: 1].
 
 #### 🍽️ [**Restaurant Web Application**](https://github.com/MyoHeinT/Restaurant) — *UI/UX & Frontend Development*

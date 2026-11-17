@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me
 
-I’m a New York City-based **B.S. in Software Engineering** student at **Western Governors University** (Expected Oct 2027) and technical startup co-founder[cite: 1, 2]. I combine user-centered **UI/UX design principles** with resilient full-stack and cross-platform mobile engineering[cite: 1].
+I’m a New York City-based **B.S. in Software Engineering** student at **Western Governors University** (Expected Oct 2027) and a technical startup co-founder. I combine user-centered **UI/UX design principles** with resilient full-stack and cross-platform mobile engineering.
 
-- 🚀 **Co-Founder & Core Features Developer at Lethan:** Architecting cross-platform client-side applications in **Dart & Kotlin** alongside **Python, Firebase, and AI voice cloning workflows**[cite: 1].
-- 💡 **Co-Founder at Anaget:** Contributing to product strategy, technical architecture, and user experience workflows for early-stage software initiatives[cite: 1].
-- 🎯 **Seeking:** Software Engineering, Junior Developer, Forward Deployed Engineer, UI/UX Design, or IT Support roles and internships[cite: 1].
+- 🚀 **Co-Founder & Core Features Developer at Lethan:** Architecting cross-platform client-side applications in **Dart & Kotlin** alongside **Python, Firebase, and AI voice cloning workflows**.
+- 💡 **Co-Founder at Anaget:** Contributing to product strategy, technical architecture, and user experience workflows for early-stage software initiatives.
+- 🎯 **Seeking:** Software Engineering, Junior Developer, Forward Deployed Engineer, UI/UX Design, or IT Support roles and internships.
 
 ---
 
@@ -51,23 +51,23 @@ I’m a New York City-based **B.S. in Software Engineering** student at **Wester
 ### 🚀 Featured Experience & Projects
 
 #### 📱 [**Lethan**](https://lethan-app.vercel.app/) — *Co-Founder & Core Features Developer*
-- Built responsive client-side applications and intuitive interfaces from scratch using **Dart** and **Kotlin**[cite: 1].
-- Engineered server connectivity, **Firebase** cloud synchronization (Auth, Firestore, Realtime DB), and **Python** AI voice cloning pipelines[cite: 1].
+- Built responsive client-side applications and intuitive interfaces from scratch using **Dart** and **Kotlin**.
+- Engineered server connectivity, **Firebase** cloud synchronization (Auth, Firestore, Realtime DB), and **Python** AI voice cloning pipelines.
 
 #### 🛡️ [**Peace Ray Security Services**](https://www.peaceraysecurity.com/en) — *Corporate Web Deployment*
-- Designed, built, and deployed a responsive corporate web presence using **HTML5, CSS3, JavaScript, and Bootstrap**, translating client requirements into a polished production site[cite: 1].
+- Designed, built, and deployed a responsive corporate web presence using **HTML5, CSS3, JavaScript, and Bootstrap**, translating client requirements into a polished production site.
 
 #### 🍽️ [**Restaurant Web Application**](https://github.com/MyoHeinT/Restaurant) — *UI/UX & Frontend Development*
-- Built a responsive restaurant interface in **HTML5 & CSS3** emphasizing visual hierarchy, accessible typography, and seamless mobile-to-desktop layouts[cite: 2].
+- Built a responsive restaurant interface in **HTML5 & CSS3** emphasizing visual hierarchy, accessible typography, and seamless mobile-to-desktop layouts.
 
 #### 🎨 [**Interactive Web & UI Showcase Projects**](https://github.com/MyoHeinT)
-- Maintained custom themed front-end layouts (including `Anniversary-Website`) demonstrating modular CSS styling, layout precision, and version-controlled workflows[cite: 2].
+- Maintained custom themed front-end layouts (including `Anniversary-Website`) demonstrating modular CSS styling, layout precision, and version-controlled workflows.
 
 ---
 
 ### 🎓 Education
-- **Western Governors University (WGU)** — *B.S. in Software Engineering* (Expected Oct 2027)[cite: 2]
-- **GUSTO College** — *Pearson BTEC Level 5 Higher National Diploma (HND) in Computing*[cite: 2]
+- **Western Governors University (WGU)** — *B.S. in Software Engineering* (Expected Oct 2027)
+- **GUSTO College** — *Pearson BTEC Level 5 Higher National Diploma (HND) in Computing*
 
 ---
 

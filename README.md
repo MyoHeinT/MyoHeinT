@@ -71,17 +71,6 @@ I’m a New York City-based **B.S. in Software Engineering** student at **Wester
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyoHeinT&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoHeinT&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Connect With Me
 
 - 📧 **Email:** [myoheintun21@gmail.com](mailto:myoheintun21@gmail.com)

@@ -17,9 +17,9 @@ I’m a New York City-based developer focused on building **fast, accessible, an
 
 Whether I'm engineering multi-language corporate sites that handle complex typography without layout shifts or synchronizing HTML5 Canvas animations with real-time media playback, I care deeply about craftsmanship, performance, and intuitive user experience.
 
-- 🔭 **Currently building:** **86 Bartending & Hospitality Web App** — an interactive full-stack hospitality platform combining synchronized HTML5 video/Canvas pour mechanics with a responsive AI assistant.
+- 🔭 **Currently building:** **86 Bartending & Hospitality Web App** — an interactive full-stack hospitality platform combining synchronized Dart, Kotlin, Supabase, and HTML5 video/Canvas pour mechanics with a responsive AI assistant.
 - 🌱 **Focused on:** Modern CSS architecture (Grid, Flexbox, Custom Properties), Core Web Vitals optimization, WCAG accessibility, and modular JavaScript.
-- 🤝 **Open to:** Front-End Developer, HTML/CSS Developer, Junior Software Engineer, and Web Developer roles.
+- 🤝 **Open to:** Full-stack Developer, Junior Software Engineer, Forward Deployed Engineer, and Web Developer roles.
 
 ---
 

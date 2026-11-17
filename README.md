@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Raiden (Myo Hein Tun) 👋
-### Front-End & Full-Stack Web Developer | HTML5 • CSS3 • JavaScript • Node.js
+### Front-End & Full-Stack Web Developer | Forward Deployed Engineer | Junior Software Engineer | HTML5 • CSS3 • Taiwind CSS • JavaScript • Java • Node.js • C++ • C# • Bootstrap
 
 [![Location](https://img.shields.io/badge/Location-New_York_City-111827?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Focus](https://img.shields.io/badge/Focus-Responsive_UI_&_Web_Architecture-0284c7?style=for-the-badge)]()

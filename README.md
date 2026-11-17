@@ -84,6 +84,6 @@ I’m a New York City-based **B.S. in Software Engineering** student at **Wester
 
 ### 📫 Connect With Me
 
-- 📧 **Email:** [myoheintun21@gmail.com](mailto:myoheintun21@gmail.com)[cite: 1]
-- 💼 **LinkedIn:** [Myo Hein Tun]([https://www.linkedin.com](https://www.linkedin.com/in/myo-hein-tun-439607202/)) *(update with your direct profile link)*[cite: 1]
-- 💻 **GitHub:** [@MyoHeinT](https://github.com/MyoHeinT)[cite: 1, 2]
+- 📧 **Email:** [myoheintun21@gmail.com](mailto:myoheintun21@gmail.com)
+- 💼 **LinkedIn:** [Myo Hein Tun](https://www.linkedin.com/in/myo-hein-tun-439607202/) 
+- 💻 **GitHub:** [@MyoHeinT](https://github.com/MyoHeinT)

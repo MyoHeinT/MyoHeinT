@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Raiden (Myo Hein Tun) 👋
-### Front-End & Full-Stack Web Developer | Forward Deployed Engineer | Junior Software Engineer | HTML5 • CSS3 • Taiwind CSS • JavaScript • Java • Node.js • C++ • C# • Bootstrap
+# Hi there, I'm Myo Hein (Raiden) Tun 👋
+### Software Engineering Student • Full-Stack & Mobile Developer • UI/UX Designer
 
-[![Location](https://img.shields.io/badge/Location-New_York_City-111827?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Focus](https://img.shields.io/badge/Focus-Responsive_UI_&_Web_Architecture-0284c7?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-16a34a?style=for-the-badge)]()
+[![Location](https://img.shields.io/badge/Location-New_York,_NY-111827?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Education](https://img.shields.io/badge/WGU-B.S._Software_Engineering-0284c7?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Open_to-SWE_&_UI/UX_Roles-16a34a?style=for-the-badge)]()
 
 </div>
 
@@ -13,66 +13,65 @@
 
 ### 👨‍💻 About Me
 
-I’m a New York City-based developer focused on building **fast, accessible, and responsive web interfaces** with clean, semantic HTML5 and modular CSS3—backed by full-stack JavaScript and modern AI integrations. 
+I’m a New York City-based **B.S. in Software Engineering** student at **Western Governors University** (Expected Oct 2027) and technical startup co-founder[cite: 1, 2]. I combine user-centered **UI/UX design principles** with resilient full-stack and cross-platform mobile engineering[cite: 1].
 
-Whether I'm engineering multi-language corporate sites that handle complex typography without layout shifts or synchronizing HTML5 Canvas animations with real-time media playback, I care deeply about craftsmanship, performance, and intuitive user experience.
-
-- 🔭 **Currently building:** **86 Bartending & Hospitality Web App** — an interactive full-stack hospitality platform combining synchronized Dart, Kotlin, Supabase, and HTML5 video/Canvas pour mechanics with a responsive AI assistant.
-- 🌱 **Focused on:** Modern CSS architecture (Grid, Flexbox, Custom Properties), Core Web Vitals optimization, WCAG accessibility, and modular JavaScript.
-- 🤝 **Open to:** Full-stack Developer, Junior Software Engineer, Forward Deployed Engineer, and Web Developer roles.
+- 🚀 **Co-Founder & Core Features Developer at Lethan:** Architecting cross-platform client-side applications in **Dart & Kotlin** alongside **Python, Firebase, and AI voice cloning workflows**[cite: 1].
+- 💡 **Co-Founder at Anaget:** Contributing to product strategy, technical architecture, and user experience workflows for early-stage software initiatives[cite: 1].
+- 🎯 **Seeking:** Software Engineering, Junior Developer, Forward Deployed Engineer, UI/UX Design, or IT Support roles and internships[cite: 1].
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical & Design Stack
 
-#### **Front-End & UI Engineering**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-FF6F00?style=flat-square&logo=html5&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_&_WCAG_UI-0D9488?style=flat-square)
-
-#### **Back-End, Mobile & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### **AI Integration & Creative Workflow**
-![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe_Vision-0097A7?style=flat-square&logo=google&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Adobe CS6](https://img.shields.io/badge/Adobe_CS6-FF0000?style=flat-square&logo=adobe&logoColor=white)
+#### **Web, Mobile & Cloud**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
-
-### 🚀 Featured Projects
-
-#### 🛡️ [Peace Ray Security — Bilingual Corporate Platform](https://www.peaceraysecurity.com/en)
-*Full ground-up front-end rebuild & production deployment*
-- Engineered a responsive **English & Myanmar localized** corporate site using semantic HTML5, CSS Grid/Flexbox, and custom typography rules to prevent script-switching layout shifts.
-- Built dedicated interactive showcases including a **Security Radar** and **Training School** portal without heavy third-party plugins.
-- Optimized visual assets via Adobe CS6 and deployed on a custom domain with full SSL configuration.
-
-#### 🍸 86 Bartending & Hospitality Web App *(In Active Development)*
-*Interactive full-stack training & hospitality assistant*
-- Architected a decoupled front-end module synchronizing **HTML5 video playback** and **60 FPS Canvas animations** via `requestAnimationFrame` with a real-time AI mixology assistant.
-- Built on **Node.js, Express, and PostgreSQL**, engineered to run reliably even in sandboxed browser environments.
-
-#### 🍽️ [Restaurant Web Application](https://github.com/MyoHeinT/Restaurant)
-*Responsive hospitality & menu showcase*
-- Designed and coded a clean, mobile-first restaurant web interface using HTML5, CSS3, and Bootstrap with optimized imagery and intuitive navigation.
-
-#### ♿ LetHan — Android Gesture-to-Action Accessibility App
-*Computer vision & assistive mobile engineering*
-- Contributed smart features and backend logic in **Dart and Kotlin**, integrating **Google MediaPipe Vision** and on-device Text-to-Speech synthesis for hands-free accessibility.
+#### **UI/UX & Workflow**
+![Responsive Design](https://img.shields.io/badge/Responsive_UI/UX-0D9488?style=flat-square)
+![Wireframing & Prototyping](https://img.shields.io/badge/Wireframing_&_Prototyping-6366F1?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity
+### 🚀 Featured Experience & Projects
+
+#### 📱 **Lethan** — *Co-Founder & Core Features Developer*
+- Built responsive client-side applications and intuitive interfaces from scratch using **Dart** and **Kotlin**[cite: 1].
+- Engineered server connectivity, **Firebase** cloud synchronization (Auth, Firestore, Realtime DB), and **Python** AI voice cloning pipelines[cite: 1].
+
+#### 🛡️ **Peace Ray Security Services** — *Corporate Web Deployment*
+- Designed, built, and deployed a responsive corporate web presence using **HTML5, CSS3, JavaScript, and Bootstrap**, translating client requirements into a polished production site[cite: 1].
+
+#### 🍽️ [**Restaurant Web Application**](https://github.com/MyoHeinT/Restaurant) — *UI/UX & Frontend Development*
+- Built a responsive restaurant interface in **HTML5 & CSS3** emphasizing visual hierarchy, accessible typography, and seamless mobile-to-desktop layouts[cite: 2].
+
+#### 🎨 [**Interactive Web & UI Showcase Projects**](https://github.com/MyoHeinT)
+- Maintained custom themed front-end layouts (including `Anniversary-Website`) demonstrating modular CSS styling, layout precision, and version-controlled workflows[cite: 2].
+
+---
+
+### 🎓 Education
+- **Western Governors University (WGU)** — *B.S. in Software Engineering* (Expected Oct 2027)[cite: 2]
+- **GUSTO College** — *Pearson BTEC Level 5 Higher National Diploma (HND) in Computing*[cite: 2]
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -83,8 +82,8 @@ Whether I'm engineering multi-language corporate sites that handle complex typog
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Add Your LinkedIn URL]
-- 🌐 **Portfolio / Featured Live Site:** [peaceraysecurity.com](https://www.peaceraysecurity.com/en)
-- 📧 **Email:** [Add Your Preferred Email]
+- 📧 **Email:** [myoheintun21@gmail.com](mailto:myoheintun21@gmail.com)[cite: 1]
+- 💼 **LinkedIn:** [Myo Hein Tun]([https://www.linkedin.com](https://www.linkedin.com/in/myo-hein-tun-439607202/)) *(update with your direct profile link)*[cite: 1]
+- 💻 **GitHub:** [@MyoHeinT](https://github.com/MyoHeinT)[cite: 1, 2]
